@@ -15,6 +15,10 @@ An interactive children's book about dinosaurs. A smartphone app recognizes the 
 
 The app runs on a PC (with a webcam) and on Android devices. The target group is children from 4 to 8 years, plus parents and caregivers. The markers are friendly cartoon drawings, and the 3D models are realistic but not frightening.
 
+## Preview
+
+A video showing the created app can be found here: https://github.com/JuleEngel/IU-Project-AR-Kinderbuch/releases/tag/v1
+
 ## Screenshots
 
 | Raptor in the Unity editor | T-Rex on the book page | Stegosaurus on the book page |
